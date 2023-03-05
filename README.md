@@ -2,14 +2,13 @@
 
 # Hook Watcher
 
-Hook Watcher is a webhook scrapper that continuously monitors webhooks and provides real-time updates via an endpoint. With Hook Watcher, you can easily integrate with any application that supports webhooks, and get notified whenever a new event or disovery occurs.
+Hook Watcher is a webhook scrapper that continuously monitors webhooks and provides real-time updates via an endpoint. With Hook Watcher, you can easily integrate with any application that supports webhooks, and get notified whenever a new event or discovery occurs.
 
 ## Features
 
 - Real-time monitoring of new webhooks
 - Configurable filters for webhook detection
 - Integration with multiple applications and services
-- Web-based interface for managing and monitoring new webhooks
 
 ## Getting Started
 
@@ -25,7 +24,7 @@ To use Hook Watcher, you will need to install the dependencies and configure you
 
 3. Start the server:
 
-    ```python app.py```
+    ```python main.py```
 
 ## Usage
 
