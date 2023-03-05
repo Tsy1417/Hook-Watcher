@@ -5,7 +5,7 @@ Hook Watcher is a webhook scrapper that continuously monitors webhooks and provi
 ## Features
 
 - Real-time monitoring of new webhooks
-- Configurable filters for incoming events
+- Configurable filters for webhook detection
 - Integration with multiple applications and services
 - Web-based interface for managing and monitoring new webhooks
 
@@ -15,15 +15,15 @@ To use Hook Watcher, you will need to install the dependencies and configure you
 
 1. Clone the repository:
 
-git clone https://github.com/Tsy1417/Hook-Watcher.git
+  git clone https://github.com/Tsy1417/Hook-Watcher.git
 
 2. Install the dependencies:
 
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 3. Start the server:
 
-python app.py
+  python app.py
 
 ## Usage
 
