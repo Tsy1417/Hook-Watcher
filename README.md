@@ -1,4 +1,4 @@
-![Hook Watcher Banner](https://raw.githubusercontent.com/Tsy1417/Hook-Watcher/main/banner.png)
+![Hook Watcher Banner](banner.png)
 
 # Hook Watcher
 
