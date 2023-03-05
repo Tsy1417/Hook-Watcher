@@ -1,3 +1,5 @@
+![Hook Watcher Banner](https://raw.githubusercontent.com/Tsy1417/Hook-Watcher/main/banner.png)
+
 # Hook Watcher
 
 Hook Watcher is a webhook scrapper that continuously monitors webhooks and provides real-time updates via an endpoint. With Hook Watcher, you can easily integrate with any application that supports webhooks, and get notified whenever a new event or disovery occurs.
