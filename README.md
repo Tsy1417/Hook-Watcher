@@ -15,15 +15,15 @@ To use Hook Watcher, you will need to install the dependencies and configure you
 
 1. Clone the repository:
 
-  git clone https://github.com/Tsy1417/Hook-Watcher.git
+    ```git clone https://github.com/Tsy1417/Hook-Watcher.git```
 
 2. Install the dependencies:
 
-  pip install -r requirements.txt
+    ```pip install -r requirements.txt```
 
 3. Start the server:
 
-  python app.py
+    ```python app.py```
 
 ## Usage
 
@@ -31,7 +31,7 @@ To use Hook Watcher, you will need to create a webhook URL in an application or 
 
 Here's an example of how to create a webhook URL in Discord:
 
-1. Make a discord server
+1. Make a account then a discord server
 2. Right click on a channel (edit channel)
 3. Press on Intergrations
 4. Webhooks
