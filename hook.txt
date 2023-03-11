@@ -1,1 +1,1 @@
-webhook = "https://canary.discord.com/api/webhooks/1083771598210875472/KDVfY4OdXB06jy4wXiSgJES4bDoOF25CthjlYtoPLLO9aQNLIv4nV2UrD-8zL1IqmCc8"
+webhook = "https://discord.com/api/webhooks/1084037184740405370/xWDw4QogIADYCIhZ1cwZjq0TjhEWOpYP8ecjPphHLhlcU8UREdZ8LtGxE1fyki5G3Djd"
